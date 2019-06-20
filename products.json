@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Pastel de Vainilla ",
+      "price": 4,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Pastel 3",
+      "price": 6
+    },
+    {
+      "id": 3,
+      "name": "Pastel 4",
+      "price": 5
+    },
+    {
+      "name": "Pastel de Zanahoria",
+      "price": 5,
+      "id": 4
+    },
+    {
+      "name": "Pastel de Chocolate",
+      "price": 6,
+      "id": 5
+    },
+    {
+      "name": "Pastel de Fresa",
+      "price": 4,
+      "id": 6
+    }
+  ]
+}
